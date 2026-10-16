@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sushma 👋
 
-<!--
-**Sushma5621/Sushma5621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Training | AI Evaluation | Multilingual Language Specialist
 
-Here are some ideas to get you started:
+I have experience in AI data evaluation, translation, transcription, audio annotation, and language quality review.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- Marathi
+- Hindi
+- Konkani
+- English
+
+### Skills & Experience
+- AI response evaluation
+- Linguistic quality assessment
+- Translation and transcription
+- Audio data annotation
+- Following detailed project guidelines
+- Content quality review
+
+### Professional Interests
+- AI model training and evaluation
+- Multilingual AI development
+- Language data quality
+
+### Website
+[Misty Web Studio](https://www.mistywebstudio.com/)
+
